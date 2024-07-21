@@ -1,3 +1,5 @@
 customChrome.css
 customContent.css
 PKGBUILD
+**/.DS_Store
+.gitignore
